@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development & AI projects<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Advanced Backend Development<br>🌱 I’m currently learning React , CSS ,JS<br>💬 Ask me about HTML, JAVA, SQL ,GitHub & Tech Stuff<br>⚡ Fun fact:  😆
+🔭 I’m currently working on Web Development & AI projects<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Advanced Backend Development<br>🌱 I’m currently learning React , CSS ,JS<br>💬 Ask me about HTML, JAVA, SQL ,GitHub & Tech Stuff<br>
 
 
 ## 🌐 Socials:
